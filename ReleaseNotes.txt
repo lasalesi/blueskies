@@ -1,0 +1,12 @@
+2016-09-14 (Rev 11)
+-----------------
+* Implemented unlocking feature (do_unlock.php?ip=n)
+* Lock symbol for list_requests.php & list_completed.php (for creator/revisors)
+* Lock function when entering proc_created.php and proc_finalise.php (for creator/revisor)
+* Unlock funtion wehn running do_created.php and do_close.php
+* Bugfix: removed error when not fasttrack was selected.
+* Added link to tools page for logged in users
+
+2016-09-14 (Rev 12)
+------------------
+* resolved blank do_request.php bug
